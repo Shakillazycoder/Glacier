@@ -1,21 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 *{
     margin: 0;
     padding: 0;
+    font-size: font-family: 'Lato', sans-serif;
 }
 .hero{
     background-image: url('../images/Glacier_free_image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom cover;
-    height: 100vh;
+    height: 50vh;
 }
 .hero h1{
     font-size: 250px;
     text-align: center;
     color: rgb(179, 13, 13);
     font-weight: 900;
-    padding-top: 20px;
+    padding-top: 10px;
     word-spacing: 20;
     letter-spacing: 50px;
-
 }
