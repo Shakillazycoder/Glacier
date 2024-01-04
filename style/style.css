@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.hero{
+    background-image: url('../images/Glacier_free_image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom cover;
+    height: 100vh;
+}
+.hero h1{
+    font-size: 250px;
+    text-align: center;
+    color: rgb(179, 13, 13);
+    font-weight: 900;
+    padding-top: 20px;
+    word-spacing: 20;
+    letter-spacing: 50px;
+
+}
